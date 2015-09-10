@@ -1,0 +1,6 @@
+[submodule "unblogaso_front_end"]
+	path = unblogaso_front_end
+	url = https://github.com/FrancoB411/unblogaso_front_end
+[submodule "unblogaso_api"]
+	path = unblogaso_api
+	url = https://github.com/FrancoB411/unblogaso_api
